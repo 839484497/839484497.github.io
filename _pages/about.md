@@ -19,15 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Lei Yan is a post-doctoral research scientist at the Columbia Water Center. 
-He completed his Ph.D. at Wuhan University in the department of Hydrology and Water Resources, 
-focusing on the impacts of climate change and human activities on hydrometeorological extremes using 
-statistical techniques. Currently, His primary research interest is the modeling and prediction of ENSO events
-using machine learning methods and its teleconnection with precipitation, renewable resources and other 
-hydrometeorological extremes.
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a visiting scholar at the Columbia Water Center. 
+I completed my Ph.D. at Wuhan University in the department of Hydrology and Water Resources, 
+focusing on the impacts of climate change and human activities on hydro-meteorological extremes using 
+statistical techniques. Currently, my primary research interest is the modeling and prediction of ENSO events
+using machine learning methods and its tele-connection with precipitation, renewable resources and other 
+hydro-meteorological extremes.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
