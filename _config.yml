@@ -15,7 +15,7 @@ footer_text: >
 keywords: Environmental Engineering
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: LY.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://leiyan90.github.io # the base hostname & protocol for your site
 baseurl: /
