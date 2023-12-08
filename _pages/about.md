@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>ly2609@columbia.edu</p>
     <p>yanl@whu.edu.cn</p>
     <p>500 West 120th Street</p>
     <p>New York, NY 10027</p>
