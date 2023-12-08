@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a visiting scholar working with [Prof. Upmanu Lall](https://www.eee.columbia.edu/faculty/upmanu-lall) 
+I am currently a Postdoctoral Research Scientist working with [Prof. Upmanu Lall](https://www.eee.columbia.edu/faculty/upmanu-lall) 
 at [Columbia Water Center](https://water.columbia.edu/). 
 
 I completed my Ph.D. at Wuhan University under the supervision of [Prof. Lihua Xiong](http://waterlab.whu.edu.cn/index.php/Researcher/userinfo/uid/9.html) in the department of Hydrology and Water Resources, 

@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Lei Yan
-    - name: Date of Birth
-      value: October 4th 1990
+#    - name: Date of Birth
+#      value: October 4th 1990
     - name: Languages
       value: Mandarin, English
 
@@ -96,7 +96,17 @@
 #      items:
 #        - Description 1.
 #        - Description 2.
-#
+##- title: Academic Interests
+##  type: nested_list
+##  contents:
+##    - title: Topic 1.
+##      items:
+##        - Description 1.
+##        - Description 2.
+##    - title: Topic 2.
+##      items:
+##        - Description 1.
+##        - Description 2.
 #- title: Other Interests
 #  type: list
 #  contents:
